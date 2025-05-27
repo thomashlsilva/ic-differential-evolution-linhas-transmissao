@@ -70,10 +70,9 @@ Por fim, desenvolveu-se uma ferramenta computacional capaz de calcular e minimiz
 }
 ```
 
----
 
-**Contato:**
-✉️ [thomashlsilva@gmail.com](mailto:thomashlsilva@gmail.com)
+**Contato**:  
+✉️ [thomashlsilva@gmail.com](mailto:thomashlsilva@gmail.com)  
 💻 [@thomashlsilva](https://github.com/thomashlsilva)
 
 ---
